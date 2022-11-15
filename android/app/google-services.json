@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "626451442646",
+    "project_id": "hello-dd26c",
+    "storage_bucket": "hello-dd26c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626451442646:android:ce9af0106f65d50f1d5277",
+        "android_client_info": {
+          "package_name": "com.technion.android.hello_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626451442646-573glla25ri92autgj7iqe7ji70u7od7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDOZic4svnV3kuiJt6Qv0p6cWiNwcH9q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626451442646-573glla25ri92autgj7iqe7ji70u7od7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
